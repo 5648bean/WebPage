@@ -1,11 +1,6 @@
-//<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>value</title>
-        <style>
-            #id2{border: 1px solid red;}
-        </style>
     </head>
     <body>
         <header>
