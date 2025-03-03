@@ -27,6 +27,3 @@
             document.getElementById("id2").innerHTML=str;
         }
     </script>
-
-    //</body>
-//</html>
