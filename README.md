@@ -1,6 +1,3 @@
-<head>
-    <meta charset="utf-8">
-</head>
 <header>
     <h1>安全なパスワードを提供します。</h1>
 </header>
